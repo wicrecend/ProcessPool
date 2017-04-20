@@ -1,0 +1,5 @@
+C:\git\ProcessPool\ProcessPool\ProcessPool\bin\Debug\ProcessPool.exe.config
+C:\git\ProcessPool\ProcessPool\ProcessPool\bin\Debug\ProcessPool.exe
+C:\git\ProcessPool\ProcessPool\ProcessPool\bin\Debug\ProcessPool.pdb
+C:\git\ProcessPool\ProcessPool\ProcessPool\obj\Debug\ProcessPool.exe
+C:\git\ProcessPool\ProcessPool\ProcessPool\obj\Debug\ProcessPool.pdb
